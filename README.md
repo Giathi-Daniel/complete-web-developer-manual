@@ -3,7 +3,7 @@
 
 All resources and notes from the [Complete Web Developer: Zero to Mastery course](https://zerotomastery.io/courses/coding-bootcamp/?utm_source=github&utm_medium=complete-web-developer-manual)
 
-******************************************************************************************
+*******************************************************************************************
 ##  __*Contents*__
 
 [ 1. *Introduction*](#01)<br>
